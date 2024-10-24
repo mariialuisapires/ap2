@@ -1,0 +1,14 @@
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.AssemblyInfoInputs.cache
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.AssemblyInfo.cs
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.csproj.CoreCompileInputs.cache
+C:\Users\lully\ap2_lab\bin\Debug\net8.0\ap2_lab.exe
+C:\Users\lully\ap2_lab\bin\Debug\net8.0\ap2_lab.deps.json
+C:\Users\lully\ap2_lab\bin\Debug\net8.0\ap2_lab.runtimeconfig.json
+C:\Users\lully\ap2_lab\bin\Debug\net8.0\ap2_lab.dll
+C:\Users\lully\ap2_lab\bin\Debug\net8.0\ap2_lab.pdb
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.dll
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\refint\ap2_lab.dll
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.pdb
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ap2_lab.genruntimeconfig.cache
+C:\Users\lully\ap2_lab\obj\Debug\net8.0\ref\ap2_lab.dll
